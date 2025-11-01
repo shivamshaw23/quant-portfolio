@@ -1,0 +1,9 @@
+pandas
+numpy
+aiohttp
+sqlalchemy
+psycopg2-binary
+quantstats
+pyfolio
+matplotlib
+optuna
